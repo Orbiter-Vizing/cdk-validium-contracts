@@ -1,0 +1,34 @@
+{
+ "realVerifier": true,
+ "trustedSequencerURL": "http://13.212.217.126:6060",
+ "networkName": "Orbiter Vizing Testnet",
+ "version": "0.0.1",
+ "trustedSequencer": "0x69299A9dFcC793E9780A0115BF3B45b4dECa2463",
+ "chainID": 28516,
+ "trustedAggregator": "0x0cceA9818B443F3627EfACca4ccD0908A6dC94C1",
+ "trustedAggregatorTimeout": 604799,
+ "pendingStateTimeout": 604799,
+ "forkID": 6,
+ "admin": "0xc3C7A782dda00a8E61Cb9Ba0ea8680bb3f3B9d10",
+ "cdkValidiumOwner": "0xc3C7A782dda00a8E61Cb9Ba0ea8680bb3f3B9d10",
+ "timelockAddress": "0xc3C7A782dda00a8E61Cb9Ba0ea8680bb3f3B9d10",
+ "proposers": [
+  "0xc3C7A782dda00a8E61Cb9Ba0ea8680bb3f3B9d10",
+  "0x2306d15D1Fcc0e5986f4980f689DB7Dd66069D9E"
+ ],
+ "executors": [
+  "0xc3C7A782dda00a8E61Cb9Ba0ea8680bb3f3B9d10",
+  "0x2306d15D1Fcc0e5986f4980f689DB7Dd66069D9E"
+ ],
+ "minDelayTimelock": 5,
+ "salt": "0x0000000000000000000000000000000000000000000000000000000000000013",
+ "initialCDKValidiumDeployerOwner": "0xc3C7A782dda00a8E61Cb9Ba0ea8680bb3f3B9d10",
+ "maticTokenAddress": "0x461997C4C2414eD903fD62FFF9D2e62A8eAb299e",
+ "cdkValidiumDeployerAddress": "0x5c0068d089803b9AD42b63dd65e984e2E4394757",
+ "deployerPvtKey": "",
+ "maxFeePerGas": "",
+ "maxPriorityFeePerGas": "",
+ "multiplierGas": "",
+ "setupEmptyCommittee": true,
+ "committeeTimelock": false
+}

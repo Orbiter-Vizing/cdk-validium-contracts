@@ -1,0 +1,23 @@
+{
+ "cdkValidiumAddress": "0x16F9E5796478A205F849f87FbF03DD4e4c4D245E",
+ "polygonZkEVMBridgeAddress": "0xfE86808Ff582A54282C3283e1Aa02f07FdE770e7",
+ "polygonZkEVMGlobalExitRootAddress": "0x3A624D35ABe35586b2083C9a3f1aaF1E3cf099b3",
+ "cdkDataCommitteeContract": "0x965c41012E663e072a4f34da89c8dEea2afE4657",
+ "maticTokenAddress": "0x1DA976F6fF06DdD9897163ccF119c28429Bd356D",
+ "verifierAddress": "0xf93c870e00fc3B1AFCE0c2D45b8d324536E5a7fA",
+ "cdkValidiumDeployerContract": "0xa2e58b74365Db7455dC7F572e04ECf1F5868d9ee",
+ "deployerAddress": "0x2306d15D1Fcc0e5986f4980f689DB7Dd66069D9E",
+ "timelockContractAddress": "0x55fac9DD368539797AfDB714aD554DD5A29c002b",
+ "deploymentBlockNumber": 5101266,
+ "genesisRoot": "0x81adf2453a87d2b5981561712ce74756c65518ddd77296a2fe2c378ec9df29dc",
+ "trustedSequencer": "0x69299A9dFcC793E9780A0115BF3B45b4dECa2463",
+ "trustedSequencerURL": "http://13.212.217.126:6060",
+ "chainID": 28516,
+ "networkName": "ORBChain",
+ "admin": "0x2306d15D1Fcc0e5986f4980f689DB7Dd66069D9E",
+ "trustedAggregator": "0x0cceA9818B443F3627EfACca4ccD0908A6dC94C1",
+ "proxyAdminAddress": "0x2d3024Ad2C9225c2E613ED7CC98420666Bb35b83",
+ "forkID": 6,
+ "salt": "0x0000000000000000000000000000000000000000000000000000000000000008",
+ "version": "0.0.1"
+}

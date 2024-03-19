@@ -1,0 +1,31 @@
+{
+ "cdkValidiumAddress": "0x0375f9A9B270388A7e4cA7C19208a9c00d418C86",
+ "polygonZkEVMBridgeAddress": "0x1b86282578494fEF49da28e8C4D1f5a51f076AAd",
+ "polygonZkEVMGlobalExitRootAddress": "0xde49Cb02988aEf9A0A8c6A73fD4Bf830bD1f0003",
+ "cdkDataCommitteeContract": "0x19F9f5c70a3bDa5b85Ae99Dc0a2C1CB2BF58d9C4",
+ "maticTokenAddress": "0x461997C4C2414eD903fD62FFF9D2e62A8eAb299e",
+ "verifierAddress": "0xcE8EE644EEAec4F7d9699769A531D09D5C7e9BEE",
+ "cdkValidiumDeployerContract": "0x5c0068d089803b9AD42b63dd65e984e2E4394757",
+ "deployerAddress": "0xc3C7A782dda00a8E61Cb9Ba0ea8680bb3f3B9d10",
+ "timelockContractAddress": "0x193382f10d8947DB58304D3F57376951656E17c3",
+ "proposers": [
+  "0xc3C7A782dda00a8E61Cb9Ba0ea8680bb3f3B9d10",
+  "0x2306d15D1Fcc0e5986f4980f689DB7Dd66069D9E"
+ ],
+ "executors": [
+  "0xc3C7A782dda00a8E61Cb9Ba0ea8680bb3f3B9d10",
+  "0x2306d15D1Fcc0e5986f4980f689DB7Dd66069D9E"
+ ],
+ "deploymentBlockNumber": 5516001,
+ "genesisRoot": "0xcfcca4eacda891a62495d0aa46ea705aa9227463459b3b10a36a270c124e7be7",
+ "trustedSequencer": "0x69299A9dFcC793E9780A0115BF3B45b4dECa2463",
+ "trustedSequencerURL": "http://13.212.217.126:6060",
+ "chainID": 28516,
+ "networkName": "Orbiter Vizing Testnet",
+ "admin": "0xc3C7A782dda00a8E61Cb9Ba0ea8680bb3f3B9d10",
+ "trustedAggregator": "0x0cceA9818B443F3627EfACca4ccD0908A6dC94C1",
+ "proxyAdminAddress": "0xBced89115f41c29751c65B64a6057168620f447b",
+ "forkID": 6,
+ "salt": "0x0000000000000000000000000000000000000000000000000000000000000013",
+ "version": "0.0.1"
+}

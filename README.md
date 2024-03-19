@@ -1,1 +1,1 @@
-# cdk-validium-contracts
+#Orbiter Vizing validum contracts

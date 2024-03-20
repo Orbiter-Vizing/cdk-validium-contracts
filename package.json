@@ -49,7 +49,7 @@
     "eslint-plugin-mocha": "^9.0.0",
     "ethereum-waffle": "^3.4.4",
     "ffjavascript": "^0.2.57",
-    "hardhat": "^2.16.1",
+    "hardhat": "^2.22.1",
     "hardhat-dependency-compiler": "^1.1.3",
     "hardhat-gas-reporter": "^1.0.9",
     "lodash": "^4.17.21",
@@ -70,7 +70,6 @@
     "deploy:CDKValidium:localhost": "rm -f .openzeppelin/unknown-31337.json && node deployment/1_createGenesis.js && npx hardhat run deployment/2_deployCDKValidiumDeployer.js --network localhost && npx hardhat run deployment/3_deployContracts.js --network localhost",
     "deploy:testnet:CDKValidium:localhost": "npm run prepare:testnet:CDKValidium:localhost && npm run deploy:CDKValidium:localhost",
     "prepare:testnet:CDKValidium:sepolia": "npx hardhat run deployment/testnet/prepareTestnet.js --network sepolia",
-   
     "deploy:CDKValidium:sepolia": "node deployment/1_createGenesis.js && npx hardhat run deployment/3_deployContracts.js --network sepolia && npm run saveDeployment:sepolia",
     "deploy:deployer:CDKValidium:sepolia": "npx hardhat run deployment/2_deployCDKValidiumDeployer.js --network sepolia",
     "verify:deployer:CDKValidium:sepolia": "npx hardhat run deployment/verifyCDKValidiumDeployer.js --network sepolia",

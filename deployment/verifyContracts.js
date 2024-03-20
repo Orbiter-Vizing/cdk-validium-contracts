@@ -17,8 +17,8 @@ async function main() {
     }
 
     // verify maticToken
-    const maticTokenName = 'Orbiter Vizing Aggregator Token';
-    const maticTokenSymbol = 'OVAT';
+    const maticTokenName = 'Vizing Aggregator Token';
+    const maticTokenSymbol = 'VAT';
     const maticTokenInitialBalance = ethers.utils.parseEther('21000000');
     try {
         // verify governance

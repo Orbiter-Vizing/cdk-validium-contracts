@@ -1,1 +1,1 @@
-# Orbiter Vizing validum contracts
+# Vizing validum contracts

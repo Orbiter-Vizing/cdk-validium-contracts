@@ -68,8 +68,8 @@ async function main() {
     /*
      *Deployment MATIC
      */
-    const maticTokenName = 'Orbiter Vizing Aggregator Token';
-    const maticTokenSymbol = 'OVAT';
+    const maticTokenName = 'Vizing Aggregator Token';
+    const maticTokenSymbol = 'VAT';
     const maticTokenInitialBalance = ethers.utils.parseEther('21000000');
 
     const maticTokenFactory = await ethers.getContractFactory('ERC20PermitMock', deployer);
